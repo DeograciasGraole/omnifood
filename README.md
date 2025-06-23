@@ -40,7 +40,7 @@
   <h2>🛠️ Tech Stack</h2>
   <ul>
     <li>✅ HTML5</li>
-    <li>🎨 CSS3 (Flexbox, Grid, custom animations)</li>
+    <li>🎨 CSS3 (Flexbox, Grid,flexbox)</li>
     <li>✨ JavaScript (Vanilla JS)</li>
     <li>📱 Fully responsive design (mobile-first)</li>
   </ul>
