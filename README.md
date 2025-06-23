@@ -32,7 +32,7 @@
 
   <h2>📸 Preview</h2>
   <p>
-    <img src="screenshot.png" alt="Omnifood Preview" />
+    <a href="https://omnifood-graoleinspiration.netlify.app/">Omnifood Demo <a/>
   </p>
 
   <hr>
